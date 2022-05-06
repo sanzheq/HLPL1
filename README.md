@@ -1,2 +1,2 @@
 # HLPL1
-HLPL1 Lab
+HLPL1 Lab Sanzhar Kudaibergenov
